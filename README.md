@@ -1,7 +1,3 @@
-Here's a more engaging and detailed version of your GitHub profile:
-
----
-
 ### 👋 Hello, World! I'm Nkululeko Dube (@Nkululeko-Dube)
 
 **👀 Cybersecurity Enthusiast | Ethical Hacking Learner | Future IT Leader**
