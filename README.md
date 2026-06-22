@@ -1,6 +1,6 @@
 ### 👋 Hello, World! I'm Nkululeko Dube (@Nkululeko-Dube)
 
-**👀 Cybersecurity Enthusiast | Ethical Hacking Learner | Future IT Leader**
+**👀 Bug Bounty Enthusiast | Ethical Hacking Learner**
 
 ---
 
@@ -28,8 +28,6 @@ I'm passionate about everything Cybersecurity and I'm on a mission to master the
 
 ### Let's Connect
 
-- **LinkedIn:** [Nkululeko Dube](https://www.linkedin.com/in/nkululeko-dube/)
-
 ---
 
 ### Fun Fact
@@ -38,7 +36,7 @@ I was inspired to enter the world of cybersecurity by the TV series MR Robot, an
 
 ---
 
-Feel free to reach out if you're interested in collaborating or just want to talk about the latest in cybersecurity!
+Feel free to reach out if you're interested in collaborating or just want to talk about the latest in bug bounty!
 
 
 <!---
